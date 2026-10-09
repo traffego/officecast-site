@@ -1,0 +1,1312 @@
+{
+  "version": 1,
+  "site": {
+    "name": "Office Cast",
+    "slogan": "A conversa do escritório que serve pra vida",
+    "description": "Office Cast, com Ivan Lucas e Victor Alves: conversas sobre fé, maturidade, relacionamentos, hábitos, liderança e as escolhas que moldam a vida.",
+    "youtube": "https://www.youtube.com/@OfficeCast",
+    "instagram": "https://www.instagram.com/office.cast/",
+    "instagramCortes": "https://www.instagram.com/cortesofficecast/",
+    "spotify": "",
+    "email": "",
+    "phone": "",
+    "contactEnabled": true,
+    "credits": [
+      {
+        "label": "André Felipe",
+        "url": "https://www.instagram.com/eu_andrefelipe/"
+      },
+      {
+        "label": "Moovi Estúdio",
+        "url": "https://www.instagram.com/mooviestudio/"
+      }
+    ]
+  },
+  "home": {
+    "heroEyebrow": "Podcast Office Cast",
+    "heroTitle": "Fé para seguir. Sabedoria para viver.",
+    "heroText": "Com Ivan Lucas e Victor Alves, conversas sobre escolhas, propósito e os processos que nos fazem crescer.",
+    "heroCta": "Assistir ao Office Cast",
+    "featuredSeries": [
+      "sabedoria",
+      "renovo",
+      "forja",
+      "amanhecer",
+      "raizes"
+    ],
+    "showPaths": true,
+    "showShop": true
+  },
+  "live": {
+    "url": "https://www.youtube.com/live/UX_Z9998880",
+    "videoId": "UX_Z9998880",
+    "title": "SABEDORIA #2 | A decisão que parecia certa",
+    "description": "Por que decidimos mal mesmo com boas intenções? Ivan Lucas e Victor Alves conversam sobre escolhas, o papel dos conselhos e como planejar sem cair na ilusão de controlar tudo, a partir de Provérbios 14:12, 15:22, 16:9 e 19:20-21.",
+    "scheduledAt": "2026-10-06T12:20:41.000Z",
+    "liveSince": "",
+    "status": "replay",
+    "cover": null,
+    "embeddable": true,
+    "liveMaxHours": 6,
+    "updatedAt": "2026-10-06T18:00:00.000Z"
+  },
+  "metrics": {
+    "enabled": true,
+    "reference": "Dados do YouTube observados em setembro de 2026.",
+    "source": "Página pública do canal @OfficeCast no YouTube (print de 30/09/2026)",
+    "items": [
+      {
+        "value": "Mais de 4 mil",
+        "label": "inscritos no YouTube",
+        "raw": "4.164 inscritos",
+        "observedAt": "2026-09-30"
+      },
+      {
+        "value": "Mais de 960 mil",
+        "label": "visualizações no YouTube",
+        "raw": "964.911 visualizações",
+        "observedAt": "2026-09-30"
+      }
+    ]
+  },
+  "hosts": [
+    {
+      "slug": "ivan-lucas",
+      "name": "Ivan Lucas",
+      "role": "Contador, empresário e comunicador",
+      "summary": "Contador por formação e empresário por vocação, está à frente da Ebrom Consultoria e apresenta o Office Cast ao lado de Victor Alves.",
+      "bio": [
+        "Ivan Lucas acredita que coisas incríveis também acontecem em dias comuns. E é nessa crença que ele constrói seu trabalho: perceber oportunidades no dia a dia e transformar conversas em caminhos novos.",
+        "Contador por formação e empresário por vocação, Ivan está à frente da Ebrom Consultoria, onde ajuda pessoas e negócios a crescerem com mais clareza e estratégia. Para ele, números não são apenas números. São histórias, decisões e possibilidades.",
+        "Como comunicador, reúne mais de 270 mil seguidores nas redes sociais. Lá, compartilha reflexões que conectam pessoas, negócios e propósito. Ao lado de Victor Alves, apresenta o Office Cast, um podcast com conversas francas sobre fé, amadurecimento, relacionamentos e as escolhas que transformam a vida.",
+        "Ivan une a precisão de quem lida com números à sensibilidade de quem gosta de gente. Assim, transforma ideias em oportunidades e conversas em transformação."
+      ],
+      "highlight": "",
+      "topics": [
+        "Pessoas, negócios e propósito",
+        "Clareza e estratégia para crescer",
+        "Escolhas que transformam a vida"
+      ],
+      "books": [],
+      "instagram": "https://www.instagram.com/oivanlucas/",
+      "tiktok": "https://www.tiktok.com/@oivanlucas",
+      "kwai": "https://kwai-video.com/u/@o_ivanlucas/5CFLwpr7",
+      "inviteNote": "Para convites, use o formulário de contato e escolha “Convite para Ivan Lucas”.",
+      "heroPhoto": {
+        "src": "/static/img/apresentadores/ivan-lucas-principal-destaque-720.jpg",
+        "w": 720,
+        "h": 900,
+        "alt": "Ivan Lucas sorrindo, de camisa branca, com os braços apoiados na mesa do estúdio",
+        "variants": [
+          {
+            "src": "/static/img/apresentadores/ivan-lucas-principal-destaque-520.jpg",
+            "w": 520
+          },
+          {
+            "src": "/static/img/apresentadores/ivan-lucas-principal-destaque-720.jpg",
+            "w": 720
+          }
+        ]
+      },
+      "photo": {
+        "src": "/static/img/apresentadores/ivan-lucas-retrato-720.jpg",
+        "w": 720,
+        "h": 1280,
+        "alt": "Ivan Lucas sorrindo, de camisa branca, com os braços apoiados na mesa do estúdio",
+        "variants": [
+          {
+            "src": "/static/img/apresentadores/ivan-lucas-retrato-480.jpg",
+            "w": 480
+          },
+          {
+            "src": "/static/img/apresentadores/ivan-lucas-retrato-720.jpg",
+            "w": 720
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/static/img/apresentadores/ivan-lucas-estudio-800.jpg",
+          "w": 800,
+          "h": 1074,
+          "alt": "Ivan Lucas de jaqueta clara, sorrindo no estúdio do Office Cast",
+          "variants": [
+            {
+              "src": "/static/img/apresentadores/ivan-lucas-estudio-480.jpg",
+              "w": 480
+            },
+            {
+              "src": "/static/img/apresentadores/ivan-lucas-estudio-800.jpg",
+              "w": 800
+            }
+          ]
+        },
+        {
+          "src": "/static/img/apresentadores/ivan-lucas-conversa-1200.jpg",
+          "w": 1200,
+          "h": 675,
+          "alt": "Ivan Lucas falando ao microfone durante uma gravação do Office Cast",
+          "variants": [
+            {
+              "src": "/static/img/apresentadores/ivan-lucas-conversa-640.jpg",
+              "w": 640
+            },
+            {
+              "src": "/static/img/apresentadores/ivan-lucas-conversa-1200.jpg",
+              "w": 1200
+            }
+          ]
+        }
+      ],
+      "featured": [
+        "4zfalqHoN7s",
+        "BI2gZ47X1XQ",
+        "PrpuybeWwoo"
+      ]
+    },
+    {
+      "slug": "victor-alves",
+      "name": "Victor Alves",
+      "role": "Pastor, teólogo, escritor e comunicador",
+      "summary": "Pastor na Comunidade Batista Moriá, teólogo e escritor, une reflexão bíblica, cuidado pastoral e uma comunicação próxima no Office Cast.",
+      "bio": [
+        "Victor Alves sabe o que é perder alguém. E sabe que a fé não tira a dor, mas mostra um jeito de passar por ela.",
+        "João Victor Alves da Silva tem 41 anos. É pai da Sara e pastor na Comunidade Batista Moriá. Formou-se em Teologia pelo Seminário Teológico Batista do Sul do Brasil e hoje está cursando Psicologia, porque quer entender melhor o ser humano e cuidar melhor das pessoas.",
+        "Viúvo, Victor transformou a própria história em ponte para quem está em crise. Ele junta reflexão bíblica, cuidado pastoral e uma comunicação próxima e verdadeira para ajudar pessoas a reencontrarem propósito, esperança e transformação, mesmo no meio das dores da vida.",
+        "Também apresenta, ao lado de Ivan Lucas, o Office Cast, um podcast sobre fé, amadurecimento e relacionamentos."
+      ],
+      "highlight": "Aqui, você não vai encontrar apenas alertas, mas direção. Não apenas diagnóstico, mas estratégia. Não apenas palavras, mas um caminho.",
+      "topics": [
+        "Reflexão bíblica",
+        "Cuidado pastoral",
+        "Propósito, esperança e transformação"
+      ],
+      "books": [
+        "Por que está abatida, ó minha alma?",
+        "O valor do equilíbrio: a formiga e as aves do céu (e-book)"
+      ],
+      "instagram": "https://www.instagram.com/victoralvescbm/",
+      "tiktok": "https://www.tiktok.com/@victoralves.cbm",
+      "kwai": "",
+      "inviteNote": "Para convites, use o formulário de contato e escolha “Convite para Victor Alves”.",
+      "heroPhoto": {
+        "src": "/static/img/apresentadores/victor-alves-destaque-820.jpg",
+        "w": 820,
+        "h": 1025,
+        "alt": "Victor Alves sorrindo, de camiseta vinho, sentado no estúdio",
+        "variants": [
+          {
+            "src": "/static/img/apresentadores/victor-alves-destaque-520.jpg",
+            "w": 520
+          },
+          {
+            "src": "/static/img/apresentadores/victor-alves-destaque-820.jpg",
+            "w": 820
+          },
+          {
+            "src": "/static/img/apresentadores/victor-alves-destaque-1200.jpg",
+            "w": 1200
+          }
+        ]
+      },
+      "photo": {
+        "src": "/static/img/apresentadores/victor-alves-retrato-800.jpg",
+        "w": 800,
+        "h": 1200,
+        "alt": "Victor Alves sorrindo, de camiseta preta, com as mãos apoiadas na mesa do estúdio",
+        "variants": [
+          {
+            "src": "/static/img/apresentadores/victor-alves-retrato-480.jpg",
+            "w": 480
+          },
+          {
+            "src": "/static/img/apresentadores/victor-alves-retrato-800.jpg",
+            "w": 800
+          },
+          {
+            "src": "/static/img/apresentadores/victor-alves-retrato-1200.jpg",
+            "w": 1200
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "src": "/static/img/apresentadores/victor-alves-estudio-800.jpg",
+          "w": 800,
+          "h": 1200,
+          "alt": "Victor Alves de camiseta vinho, sentado diante do microfone no estúdio",
+          "variants": [
+            {
+              "src": "/static/img/apresentadores/victor-alves-estudio-480.jpg",
+              "w": 480
+            },
+            {
+              "src": "/static/img/apresentadores/victor-alves-estudio-800.jpg",
+              "w": 800
+            }
+          ]
+        },
+        {
+          "src": "/static/img/apresentadores/victor-alves-conversa-532.jpg",
+          "w": 532,
+          "h": 945,
+          "alt": "Victor Alves de camiseta branca, à mesa do estúdio com microfone",
+          "variants": [
+            {
+              "src": "/static/img/apresentadores/victor-alves-conversa-532.jpg",
+              "w": 532
+            }
+          ]
+        }
+      ],
+      "featured": [
+        "UT9lJDX5Dp0",
+        "6PiBFwVExik",
+        "SFDMVvjGNi8"
+      ]
+    }
+  ],
+  "series": [
+    {
+      "slug": "sabedoria",
+      "name": "Sabedoria",
+      "tagline": "9 conselhos para viver com sabedoria",
+      "description": "Tem gente que sabe muito e vive mal. Não falta informação: falta sabedoria. Uma série em nove capítulos baseada no livro de Provérbios, sobre escolhas, palavras, relacionamentos, dinheiro, trabalho, emoções, caráter e legado.",
+      "cover": {
+        "src": "/static/img/series/sabedoria-1280.jpg",
+        "w": 1280,
+        "h": 720,
+        "alt": "Capa da série Sabedoria, com Ivan Lucas e Victor Alves e a frase “9 conselhos para viver com sabedoria”",
+        "variants": [
+          {
+            "src": "/static/img/series/sabedoria-640.jpg",
+            "w": 640
+          },
+          {
+            "src": "/static/img/series/sabedoria-1280.jpg",
+            "w": 1280
+          }
+        ]
+      },
+      "playlistId": "PLTU5-yvEDMRk",
+      "order": 1,
+      "published": true
+    },
+    {
+      "slug": "renovo",
+      "name": "Renovo",
+      "tagline": "Ainda existe caminho",
+      "description": "Uma série sobre dor, restauração, esperança, transformação e recomeço com Deus, por meio de histórias e ensinamentos bíblicos.",
+      "cover": {
+        "src": "/static/img/series/renovo-1280.jpg",
+        "w": 1280,
+        "h": 720,
+        "alt": "Capa da série Renovo, com Victor Alves e Ivan Lucas e a frase “Ainda existe caminho”",
+        "variants": [
+          {
+            "src": "/static/img/series/renovo-640.jpg",
+            "w": 640
+          },
+          {
+            "src": "/static/img/series/renovo-1280.jpg",
+            "w": 1280
+          }
+        ]
+      },
+      "playlistId": "PLbLqhkOlbS3A",
+      "order": 2,
+      "published": true
+    },
+    {
+      "slug": "forja",
+      "name": "Forja",
+      "tagline": "O processo de Deus que forma pessoas fortes",
+      "description": "Nem toda transformação acontece em um momento. Em sete capítulos, a série mostra como desafios, disciplina, espera e perdas fazem parte do processo que forma pessoas fortes.",
+      "cover": {
+        "src": "/static/img/series/forja-1280.jpg",
+        "w": 1280,
+        "h": 720,
+        "alt": "Capa da série Forja, com o título em letras de metal sobre uma bigorna e a frase “O processo de Deus que forma pessoas fortes”",
+        "variants": [
+          {
+            "src": "/static/img/series/forja-640.jpg",
+            "w": 640
+          },
+          {
+            "src": "/static/img/series/forja-1280.jpg",
+            "w": 1280
+          }
+        ]
+      },
+      "playlistId": "PLOsOV97r9A_4",
+      "order": 3,
+      "published": true
+    },
+    {
+      "slug": "amanhecer",
+      "name": "Amanhecer",
+      "tagline": "Como viver hoje sem perder a esperança no amanhã?",
+      "description": "Existem noites que parecem intermináveis. A série reflete sobre como Deus transforma os momentos mais difíceis em novos começos.",
+      "cover": {
+        "src": "/static/img/series/amanhecer-1280.jpg",
+        "w": 1280,
+        "h": 720,
+        "alt": "Capa da série especial Amanhecer, com Ivan Lucas e Victor Alves diante de um nascer do sol",
+        "variants": [
+          {
+            "src": "/static/img/series/amanhecer-640.jpg",
+            "w": 640
+          },
+          {
+            "src": "/static/img/series/amanhecer-1280.jpg",
+            "w": 1280
+          }
+        ]
+      },
+      "playlistId": "PLe1qssh_sZcg",
+      "order": 4,
+      "published": true
+    },
+    {
+      "slug": "raizes",
+      "name": "Raízes",
+      "tagline": "O que sustenta sua vida quando ninguém está olhando?",
+      "description": "Vivemos em uma geração apaixonada pelos frutos. A série olha para o que está por baixo: relacionamentos, crises, esperança e as raízes que sustentam a vida.",
+      "cover": {
+        "src": "/static/img/series/raizes-1280.jpg",
+        "w": 1280,
+        "h": 720,
+        "alt": "Capa da série Raízes, com Victor Alves e Ivan Lucas e uma árvore com raízes douradas",
+        "variants": [
+          {
+            "src": "/static/img/series/raizes-640.jpg",
+            "w": 640
+          },
+          {
+            "src": "/static/img/series/raizes-1280.jpg",
+            "w": 1280
+          }
+        ]
+      },
+      "playlistId": "PLQj04es5Wfqfit1siY7lZhHL3HUNNpCpd",
+      "order": 5,
+      "published": true
+    }
+  ],
+  "episodes": [
+    {
+      "id": "sabedoria-1-por-que-gente-inteligente-decide-mal",
+      "videoId": "4zfalqHoN7s",
+      "title": "Por que gente inteligente decide mal?",
+      "summary": "Ivan Lucas e Victor Alves abrem o livro de Provérbios para entender onde a sabedoria começa e por que estar disposto a ser corrigido diz mais do que qualquer diploma.",
+      "date": "2026-10-01T12:15:52.000Z",
+      "durationSec": 4725,
+      "series": "sabedoria",
+      "label": "#1",
+      "order": 1,
+      "status": "disponivel",
+      "topics": [
+        "fe",
+        "maturidade"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "sabedoria-2-a-decisao-que-parecia-certa",
+      "videoId": "UX_Z9998880",
+      "title": "A decisão que parecia certa",
+      "summary": "Por que decidimos mal mesmo com boas intenções, o papel dos conselhos e como planejar sem cair na ilusão de controlar tudo.",
+      "date": "2026-10-06T12:20:41.000Z",
+      "durationSec": 3850,
+      "series": "sabedoria",
+      "label": "#2",
+      "order": 2,
+      "status": "disponivel",
+      "topics": [
+        "maturidade",
+        "mentalidade"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "sabedoria-3-a-frase-que-voce-nao-devia-ter-dito",
+      "videoId": "QSbZBSQWTdk",
+      "title": "A frase que você não devia ter dito",
+      "summary": "O poder das palavras: a resposta no calor da raiva, a fofoca que parece inofensiva, a crítica que fere e o silêncio que, às vezes, é a atitude mais sábia.",
+      "date": "2026-10-08T12:00:00.000Z",
+      "durationSec": 0,
+      "series": "sabedoria",
+      "label": "#3",
+      "order": 3,
+      "status": "agendado",
+      "topics": [
+        "relacionamentos",
+        "maturidade"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "sabedoria-4-construir-a-vida-ou-preencher-vazios",
+      "videoId": "LSNfcNuxttw",
+      "title": "Construir a vida ou preencher vazios?",
+      "summary": "Casamento, família, amizade, confiança e convivência: o que Provérbios ensina sobre escolher bem quem caminha ao nosso lado.",
+      "date": "2026-10-13T12:00:00.000Z",
+      "durationSec": 0,
+      "series": "sabedoria",
+      "label": "#4",
+      "order": 4,
+      "status": "agendado",
+      "topics": [
+        "relacionamentos"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "sabedoria-5-por-que-o-dinheiro-nunca-sobra",
+      "videoId": "-fA-SYKLHds",
+      "title": "Por que o dinheiro nunca sobra?",
+      "summary": "Dívidas, planejamento, generosidade, integridade nos negócios e a diferença entre ganhar bem e viver bem.",
+      "date": "2026-10-15T12:00:00.000Z",
+      "durationSec": 0,
+      "series": "sabedoria",
+      "label": "#5",
+      "order": 5,
+      "status": "agendado",
+      "topics": [
+        "financas"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "sabedoria-6-construindo-ou-so-esperando-acontecer",
+      "videoId": "l_5N_fokZkU",
+      "title": "Construindo ou só esperando acontecer?",
+      "summary": "Trabalho, disciplina, constância, responsabilidade e excelência no que fazemos todos os dias.",
+      "date": "2026-10-20T12:00:00.000Z",
+      "durationSec": 0,
+      "series": "sabedoria",
+      "label": "#6",
+      "order": 6,
+      "status": "agendado",
+      "topics": [
+        "disciplina",
+        "lideranca"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "sabedoria-7-forte-por-fora-sem-controle-por-dentro",
+      "videoId": "MVdR3vnsI2c",
+      "title": "Forte por fora, sem controle por dentro?",
+      "summary": "Raiva, ansiedade, inveja, impulsividade e paciência: como lidar com o que sentimos sem deixar que isso decida por nós.",
+      "date": "2026-10-22T12:00:00.000Z",
+      "durationSec": 0,
+      "series": "sabedoria",
+      "label": "#7",
+      "order": 7,
+      "status": "agendado",
+      "topics": [
+        "maturidade",
+        "mentalidade"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "sabedoria-8-quem-voce-e-quando-ninguem-esta-vendo",
+      "videoId": "79K4T4fdgUE",
+      "title": "Quem você é quando ninguém está vendo?",
+      "summary": "Integridade, orgulho, humildade, honestidade, reputação e a coragem de admitir os próprios erros.",
+      "date": "2026-10-27T12:00:00.000Z",
+      "durationSec": 0,
+      "series": "sabedoria",
+      "label": "#8",
+      "order": 8,
+      "status": "agendado",
+      "topics": [
+        "maturidade"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "sabedoria-9-que-vida-voce-esta-construindo",
+      "videoId": "uE0rAeBPkUI",
+      "title": "Que vida você está construindo?",
+      "summary": "Propósito, prioridades, futuro e legado no capítulo final da série.",
+      "date": "2026-10-29T12:00:00.000Z",
+      "durationSec": 0,
+      "series": "sabedoria",
+      "label": "#9 (final)",
+      "order": 9,
+      "status": "agendado",
+      "topics": [
+        "fe",
+        "transformacao"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "renovo-1-cansado-e-no-limite",
+      "videoId": "9tiOQ-nZDDk",
+      "title": "Cansado e no limite? Como Deus renovou Elias",
+      "summary": "Quando o cansaço parece o fim da história: o cuidado de Deus com Elias em 1 Reis 19.",
+      "date": "2026-09-02T12:32:04.000Z",
+      "durationSec": 4105,
+      "series": "renovo",
+      "label": "Ep. 1",
+      "order": 1,
+      "status": "disponivel",
+      "topics": [
+        "fe",
+        "transformacao"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "renovo-2-sua-alma-esta-abatida",
+      "videoId": "tgc3lbW4wlQ",
+      "title": "Sua alma está abatida? Como encontrar renovo em Deus",
+      "summary": "O conflito entre aquilo que sentimos e aquilo em que acreditamos, a partir do Salmo 42:5.",
+      "date": "2026-09-08T12:14:26.000Z",
+      "durationSec": 4190,
+      "series": "renovo",
+      "label": "Ep. 2",
+      "order": 2,
+      "status": "disponivel",
+      "topics": [
+        "fe"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "renovo-3-o-que-parecia-morto-pode-voltar-a-viver",
+      "videoId": "1fZk4gElmLA",
+      "title": "O que parecia morto pode voltar a viver",
+      "summary": "O vale de ossos secos de Ezequiel 37 e a esperança para áreas da vida que parecem perdidas.",
+      "date": "2026-09-10T11:51:56.000Z",
+      "durationSec": 4195,
+      "series": "renovo",
+      "label": "Ep. 3",
+      "order": 3,
+      "status": "disponivel",
+      "topics": [
+        "transformacao",
+        "fe"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "renovo-4-cortaram-seus-galhos",
+      "videoId": "UT9lJDX5Dp0",
+      "title": "Cortaram seus galhos, mas sua raiz ainda vive",
+      "summary": "Esperança e recomeço depois de uma perda, a partir de Jó 14:7-9.",
+      "date": "2026-09-15T12:05:52.000Z",
+      "durationSec": 4135,
+      "series": "renovo",
+      "label": "Ep. 4",
+      "order": 4,
+      "status": "disponivel",
+      "topics": [
+        "transformacao",
+        "fe"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "renovo-5-voce-falhou",
+      "videoId": "YteEGjtq6nE",
+      "title": "Você falhou? Deus ainda pode restaurar sua história",
+      "summary": "O reencontro de Jesus com Pedro depois da negação e a nova oportunidade que vem depois da queda (João 21).",
+      "date": "2026-09-22T11:53:30.000Z",
+      "durationSec": 3375,
+      "series": "renovo",
+      "label": "Ep. 5",
+      "order": 5,
+      "status": "disponivel",
+      "topics": [
+        "transformacao",
+        "fe"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "renovo-6-renove-sua-mente",
+      "videoId": "nHT2PgKvaoM",
+      "title": "Renove sua mente e transforme sua vida",
+      "summary": "Por que a transformação verdadeira começa com a renovação da mente (Romanos 12:2).",
+      "date": "2026-09-24T12:19:03.000Z",
+      "durationSec": 4650,
+      "series": "renovo",
+      "label": "Ep. 6",
+      "order": 6,
+      "status": "disponivel",
+      "topics": [
+        "mentalidade",
+        "transformacao"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "renovo-final-deus-esta-fazendo-uma-coisa-nova",
+      "videoId": "gaiNdj7Cgas",
+      "title": "Deus está fazendo uma coisa nova em sua vida",
+      "summary": "O passado pode ensinar, mas não precisa impedir você de avançar (Isaías 43:18-19).",
+      "date": "2026-09-02T12:32:27.000Z",
+      "durationSec": 4075,
+      "series": "renovo",
+      "label": "Episódio final",
+      "order": 8,
+      "status": "disponivel",
+      "topics": [
+        "transformacao",
+        "fe"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "renovo-por-que-tanta-gente-motivada-nunca-sai-do-lugar",
+      "videoId": "TbIk3HcNqW8",
+      "title": "Por que tanta gente motivada nunca sai do lugar",
+      "summary": "A partir da história de Jó, uma conversa sobre a motivação que não sustenta e o que realmente trava o recomeço.",
+      "date": "2026-10-05T22:00:00.000Z",
+      "durationSec": 0,
+      "series": "renovo",
+      "label": "",
+      "order": 9,
+      "status": "agendado",
+      "topics": [
+        "mentalidade",
+        "transformacao"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "forja-1-o-fogo-revela-quem-voce-e",
+      "videoId": "t3n10QNjTV8",
+      "title": "O fogo revela quem você é",
+      "summary": "A prova que fortalece a fé: por que as crises revelam o caráter, a partir de 1 Pedro 1:6-7.",
+      "date": "2026-08-11T12:34:51.000Z",
+      "durationSec": 3980,
+      "series": "forja",
+      "label": "Ep. 1",
+      "order": 1,
+      "status": "disponivel",
+      "topics": [
+        "fe",
+        "maturidade"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "forja-2-deus-ainda-esta-moldando-voce",
+      "videoId": "YQUpW5djgWM",
+      "title": "Deus ainda está moldando você",
+      "summary": "O martelo da disciplina: por que a correção é processo de transformação, e não castigo (Hebreus 12:11).",
+      "date": "2026-08-14T12:21:15.000Z",
+      "durationSec": 4200,
+      "series": "forja",
+      "label": "Ep. 2",
+      "order": 2,
+      "status": "disponivel",
+      "topics": [
+        "disciplina",
+        "fe"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "forja-3-deus-nao-terminou",
+      "videoId": "8S4yhXXODAQ",
+      "title": "Deus não terminou",
+      "summary": "O Oleiro sempre recomeça: fracassos, quedas e recomeços não anulam o propósito (Jeremias 18).",
+      "date": "2026-08-18T12:07:52.000Z",
+      "durationSec": 4255,
+      "series": "forja",
+      "label": "Ep. 3",
+      "order": 3,
+      "status": "disponivel",
+      "topics": [
+        "transformacao",
+        "fe"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "forja-4-o-tempo-esta-te-moldando",
+      "videoId": "il2d3YYLJ90",
+      "title": "O tempo está te moldando",
+      "summary": "O propósito da espera e o que ela produz: perseverança e caráter aprovado (Romanos 5:3-5).",
+      "date": "2026-08-20T12:21:17.000Z",
+      "durationSec": 3590,
+      "series": "forja",
+      "label": "Ep. 4",
+      "order": 4,
+      "status": "disponivel",
+      "topics": [
+        "maturidade",
+        "fe"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "forja-5-voce-nao-precisa-ser-forte",
+      "videoId": "vd8NBff4axg",
+      "title": "Você não precisa ser forte",
+      "summary": "Quando a graça sustenta: a força que nasce do reconhecimento das próprias limitações (2 Coríntios 12:9).",
+      "date": "2026-08-25T12:17:46.000Z",
+      "durationSec": 4045,
+      "series": "forja",
+      "label": "Ep. 5",
+      "order": 5,
+      "status": "disponivel",
+      "topics": [
+        "fe"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "forja-6-o-processo-vem-antes-da-promocao",
+      "videoId": "dU0hVkQq7Ks",
+      "title": "O processo vem antes da promoção",
+      "summary": "A história de José: o caráter é formado antes de o propósito ser entregue (Gênesis 37–41).",
+      "date": "2026-08-27T12:38:47.000Z",
+      "durationSec": 4145,
+      "series": "forja",
+      "label": "Ep. 6",
+      "order": 6,
+      "status": "disponivel",
+      "topics": [
+        "maturidade",
+        "lideranca"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "forja-7-a-sua-melhor-versao-nasceu-na-forja",
+      "videoId": "LwjpbFWYbOo",
+      "title": "A sua melhor versão nasceu na forja",
+      "summary": "O capítulo final: o propósito de toda a jornada, a partir de Efésios 2:10.",
+      "date": "2026-09-01T12:13:11.000Z",
+      "durationSec": 4638,
+      "series": "forja",
+      "label": "Ep. 7",
+      "order": 7,
+      "status": "disponivel",
+      "topics": [
+        "fe",
+        "transformacao"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "amanhecer-1-o-choro-dura-uma-noite",
+      "videoId": "A0N2A2PN4UI",
+      "title": "O choro dura uma noite, mas Deus sempre faz o sol nascer",
+      "summary": "Toda noite tem um limite: como Deus transforma as noites mais difíceis em novos começos (Salmo 30:5).",
+      "date": "2026-07-07T12:29:06.000Z",
+      "durationSec": 4330,
+      "series": "amanhecer",
+      "label": "Ep. 1",
+      "order": 1,
+      "status": "disponivel",
+      "topics": [
+        "fe",
+        "transformacao"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "amanhecer-2-deus-nao-desistiu-de-voce",
+      "videoId": "xAK0bO7SqMc",
+      "title": "Deus não desistiu de você",
+      "summary": "Misericórdias que se renovam a cada manhã, a partir de Lamentações 3:22-23.",
+      "date": "2026-07-10T12:18:46.000Z",
+      "durationSec": 4167,
+      "series": "amanhecer",
+      "label": "Ep. 2",
+      "order": 2,
+      "status": "disponivel",
+      "topics": [
+        "fe"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "amanhecer-3-pare-de-sofrer-pelo-amanha",
+      "videoId": "FCx5C3j3TJ0",
+      "title": "Pare de sofrer pelo amanhã",
+      "summary": "A ansiedade que nasce da tentativa de controlar o futuro e a graça preparada para o hoje (Mateus 6:34).",
+      "date": "2026-07-14T12:15:11.000Z",
+      "durationSec": 4635,
+      "series": "amanhecer",
+      "label": "Ep. 3",
+      "order": 3,
+      "status": "disponivel",
+      "topics": [
+        "fe",
+        "mentalidade"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "amanhecer-4-voce-nao-sera-o-mesmo",
+      "videoId": "vAF0q1R1p3c",
+      "title": "Você não será o mesmo",
+      "summary": "Quando o sol nasce em Peniel: a luta de Jacó e a transformação de quem saiu dela (Gênesis 32).",
+      "date": "2026-07-17T12:36:56.000Z",
+      "durationSec": 3720,
+      "series": "amanhecer",
+      "label": "Ep. 4",
+      "order": 4,
+      "status": "disponivel",
+      "topics": [
+        "transformacao",
+        "fe"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "amanhecer-5-o-tumulo-esta-vazio",
+      "videoId": "00UWCJ4hHQM",
+      "title": "O túmulo está vazio",
+      "summary": "O amanhecer da ressurreição e o encontro de Maria Madalena com o túmulo vazio.",
+      "date": "2026-07-21T12:14:26.000Z",
+      "durationSec": 4480,
+      "series": "amanhecer",
+      "label": "Ep. 5",
+      "order": 5,
+      "status": "disponivel",
+      "topics": [
+        "fe"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "amanhecer-7-a-luz-esta-chegando",
+      "videoId": "2LGHV65A6w4",
+      "title": "A luz está chegando",
+      "summary": "A Estrela da Manhã e a esperança que não depende do que vemos.",
+      "date": "2026-07-28T12:22:44.000Z",
+      "durationSec": 4605,
+      "series": "amanhecer",
+      "label": "Ep. 7",
+      "order": 7,
+      "status": "disponivel",
+      "topics": [
+        "fe"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "raizes-1-quem-tem-raiz-nao-perde-tempo",
+      "videoId": "9VzIuJEpvtk",
+      "title": "Quem tem raiz não perde tempo com relações vazias",
+      "summary": "As companhias que escolhemos influenciam a direção da vida, a partir do Salmo 1:1-3.",
+      "date": "2026-06-02T14:09:17.000Z",
+      "durationSec": 4075,
+      "series": "raizes",
+      "label": "Ep. 1",
+      "order": 1,
+      "status": "disponivel",
+      "topics": [
+        "relacionamentos"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "raizes-2-a-crise-revela-onde-suas-raizes-estao",
+      "videoId": "wlkymEefuIw",
+      "title": "A crise revela onde suas raízes estão",
+      "summary": "Os tempos de seca revelam a profundidade das raízes (Jeremias 17:7-8).",
+      "date": "2026-06-09T12:08:53.000Z",
+      "durationSec": 5410,
+      "series": "raizes",
+      "label": "Ep. 2",
+      "order": 2,
+      "status": "disponivel",
+      "topics": [
+        "fe",
+        "maturidade"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "raizes-3-ainda-existe-esperanca-para-voce",
+      "videoId": "9n1rPUo_ndk",
+      "title": "Ainda existe esperança para você?",
+      "summary": "Sonhos interrompidos e planos frustrados não respondem à pergunta mais importante: a raiz continua viva?",
+      "date": "2026-06-12T12:17:46.000Z",
+      "durationSec": 4475,
+      "series": "raizes",
+      "label": "Ep. 3",
+      "order": 3,
+      "status": "disponivel",
+      "topics": [
+        "transformacao",
+        "fe"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "raizes-4-primeiro-deus-faz-crescer-para-baixo",
+      "videoId": "kPAfWYTD0p8",
+      "title": "Primeiro Deus faz crescer para baixo",
+      "summary": "O crescimento que permanece começa no invisível: tempos de preparação e fundamentos sólidos.",
+      "date": "2026-06-16T12:15:06.000Z",
+      "durationSec": 4215,
+      "series": "raizes",
+      "label": "Ep. 4",
+      "order": 4,
+      "status": "disponivel",
+      "topics": [
+        "maturidade",
+        "fe"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "raizes-5-quando-suas-emocoes-destroem-seus-relacionamentos",
+      "videoId": "ko0MYLpr9II",
+      "title": "Quando suas emoções destroem seus relacionamentos",
+      "summary": "A raiz de amargura que cresce em silêncio e afeta relações e a paz (Hebreus 12:15).",
+      "date": "2026-06-18T12:11:49.000Z",
+      "durationSec": 3657,
+      "series": "raizes",
+      "label": "Ep. 5",
+      "order": 5,
+      "status": "disponivel",
+      "topics": [
+        "relacionamentos",
+        "maturidade"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "raizes-6-tratando-as-raizes",
+      "videoId": "6y1qAjS-0YQ",
+      "title": "Tratando as raízes: quando o problema não é aparente",
+      "summary": "A parábola da figueira estéril (Lucas 13:6-9) e o convite para tratar o que está escondido.",
+      "date": "2026-06-23T12:18:31.000Z",
+      "durationSec": 4785,
+      "series": "raizes",
+      "label": "Ep. 6",
+      "order": 6,
+      "status": "disponivel",
+      "topics": [
+        "transformacao",
+        "maturidade"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "raizes-8-a-forca-que-vem-do-outro",
+      "videoId": "XpY3TqEy-8g",
+      "title": "A força que vem do outro: o poder das raízes entrelaçadas",
+      "summary": "Fomos criados para viver conectados: a verdadeira força está na conexão (Colossenses 2:6-7).",
+      "date": "2026-06-30T12:21:11.000Z",
+      "durationSec": 5030,
+      "series": "raizes",
+      "label": "Ep. 8",
+      "order": 8,
+      "status": "disponivel",
+      "topics": [
+        "relacionamentos"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "os-conselhos-de-salomao-para-viver-com-sabedoria",
+      "videoId": "v38I34QvjyA",
+      "title": "Os conselhos de Salomão para viver com sabedoria",
+      "summary": "Como os ensinamentos do rei Salomão continuam atuais para empresários, pais, líderes e qualquer pessoa que deseje viver com propósito.",
+      "date": "2025-04-29T13:12:58.000Z",
+      "durationSec": 4097,
+      "series": "",
+      "label": "",
+      "order": 0,
+      "status": "disponivel",
+      "topics": [
+        "fe",
+        "lideranca"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "cordao-de-tres-dobras",
+      "videoId": "PrpuybeWwoo",
+      "title": "Cordão de três dobras: a sabedoria de Salomão em Eclesiastes",
+      "summary": "Eclesiastes 4 aplicado aos negócios: cooperação, propósito e equilíbrio em parcerias duradouras.",
+      "date": "2025-05-28T13:58:08.000Z",
+      "durationSec": 4795,
+      "series": "",
+      "label": "",
+      "order": 0,
+      "status": "disponivel",
+      "topics": [
+        "lideranca",
+        "relacionamentos"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "o-poder-da-fala",
+      "videoId": "SFDMVvjGNi8",
+      "title": "O poder da fala: como suas palavras moldam seu destino",
+      "summary": "A influência da fala na vida, nos negócios e na espiritualidade, e como desenvolver uma comunicação que inspira.",
+      "date": "2025-06-12T12:55:21.000Z",
+      "durationSec": 4945,
+      "series": "",
+      "label": "",
+      "order": 0,
+      "status": "disponivel",
+      "topics": [
+        "mentalidade",
+        "fe"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "o-perigo-do-desequilibrio",
+      "videoId": "BzuRQZgbNo0",
+      "title": "O perigo do desequilíbrio",
+      "summary": "No quadro Conselhos pra Vida, como pequenas brechas de desequilíbrio afastam até pessoas sábias do propósito (1 Reis 11).",
+      "date": "2025-07-17T13:00:53.000Z",
+      "durationSec": 5595,
+      "series": "",
+      "label": "",
+      "order": 0,
+      "status": "disponivel",
+      "topics": [
+        "maturidade",
+        "fe"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "nao-confie-no-seu-coracao",
+      "videoId": "h57ogfxo1CI",
+      "title": "Não confie no seu coração",
+      "summary": "O que Jeremias 17:9 ensina sobre sentimentos, escolhas e a busca pela verdade.",
+      "date": "2025-07-31T13:02:33.000Z",
+      "durationSec": 4755,
+      "series": "",
+      "label": "",
+      "order": 0,
+      "status": "disponivel",
+      "topics": [
+        "fe",
+        "maturidade"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "o-poder-da-reacao",
+      "videoId": "QfjXl4L-35A",
+      "title": "O poder da reação: a resposta que muda tudo",
+      "summary": "No quadro Conselhos pra Vida, a forma como reagimos sob pressão e o impacto de uma resposta sábia nas relações e nos negócios.",
+      "date": "2025-08-14T12:03:52.000Z",
+      "durationSec": 3775,
+      "series": "",
+      "label": "",
+      "order": 0,
+      "status": "disponivel",
+      "topics": [
+        "relacionamentos",
+        "maturidade"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "dependencia-emocional",
+      "videoId": "6PiBFwVExik",
+      "title": "Dependência emocional: como superar e viver relacionamentos saudáveis",
+      "summary": "No quadro Relações Reais, como reconhecer sinais de dependência emocional e construir autonomia.",
+      "date": "2025-09-11T12:05:26.000Z",
+      "durationSec": 4185,
+      "series": "",
+      "label": "",
+      "order": 0,
+      "status": "disponivel",
+      "topics": [
+        "relacionamentos"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "decida-amadurecer",
+      "videoId": "BI2gZ47X1XQ",
+      "title": "Decida amadurecer",
+      "summary": "Amadurecer não é automático: é uma decisão diária que exige intencionalidade e responsabilidade.",
+      "date": "2025-10-09T12:06:18.000Z",
+      "durationSec": 5747,
+      "series": "",
+      "label": "",
+      "order": 0,
+      "status": "disponivel",
+      "topics": [
+        "maturidade",
+        "disciplina"
+      ],
+      "embeddable": true
+    },
+    {
+      "id": "processos-para-a-maturidade",
+      "videoId": "IzXX6xxVuL8",
+      "title": "Processos para a maturidade",
+      "summary": "Maturidade é resultado de processos, e não de tempo de vida: crises, desafios e passos práticos para crescer.",
+      "date": "2025-10-16T12:01:41.000Z",
+      "durationSec": 5670,
+      "series": "",
+      "label": "",
+      "order": 0,
+      "status": "disponivel",
+      "topics": [
+        "maturidade"
+      ],
+      "embeddable": true
+    }
+  ],
+  "paths": [
+    {
+      "slug": "quero-recomecar",
+      "title": "Quero recomeçar",
+      "lead": "Para quem perdeu algo importante ou sente que precisa de um novo começo.",
+      "episodes": [
+        "9tiOQ-nZDDk",
+        "UT9lJDX5Dp0",
+        "1fZk4gElmLA",
+        "YteEGjtq6nE",
+        "9n1rPUo_ndk",
+        "8S4yhXXODAQ"
+      ],
+      "order": 1
+    },
+    {
+      "slug": "quero-fortalecer-minha-fe",
+      "title": "Quero fortalecer minha fé",
+      "lead": "Conversas sobre fé em meio às provas, ao cansaço e às crises.",
+      "episodes": [
+        "t3n10QNjTV8",
+        "vd8NBff4axg",
+        "wlkymEefuIw",
+        "xAK0bO7SqMc",
+        "tgc3lbW4wlQ"
+      ],
+      "order": 2
+    },
+    {
+      "slug": "quero-amadurecer",
+      "title": "Quero amadurecer",
+      "lead": "Processos, disciplina e decisões que formam o caráter.",
+      "episodes": [
+        "BI2gZ47X1XQ",
+        "IzXX6xxVuL8",
+        "YQUpW5djgWM",
+        "il2d3YYLJ90",
+        "dU0hVkQq7Ks",
+        "4zfalqHoN7s"
+      ],
+      "order": 3
+    },
+    {
+      "slug": "quero-melhorar-meus-relacionamentos",
+      "title": "Quero melhorar meus relacionamentos",
+      "lead": "Companhias, emoções, reações e vínculos saudáveis.",
+      "episodes": [
+        "6PiBFwVExik",
+        "9VzIuJEpvtk",
+        "ko0MYLpr9II",
+        "XpY3TqEy-8g",
+        "QfjXl4L-35A"
+      ],
+      "order": 4
+    },
+    {
+      "slug": "quero-organizar-minhas-prioridades",
+      "title": "Quero organizar minhas prioridades",
+      "lead": "Equilíbrio, decisões e sabedoria para o que vem primeiro.",
+      "episodes": [
+        "BzuRQZgbNo0",
+        "UX_Z9998880",
+        "h57ogfxo1CI",
+        "kPAfWYTD0p8",
+        "v38I34QvjyA"
+      ],
+      "order": 5
+    }
+  ],
+  "playlists": [
+    {
+      "title": "Recomeçar",
+      "playlistId": "PLQj04es5WfqcvBNjZwfh2Z8jsFmkP0eHC"
+    },
+    {
+      "title": "Equilíbrio: o fio da navalha",
+      "playlistId": "PLQj04es5Wfqdfchekv-qJ982Lz3KYbE6I"
+    },
+    {
+      "title": "Coragem",
+      "playlistId": "PLQj04es5Wfqdgv_BcuEfiKe1v816qd67U"
+    },
+    {
+      "title": "Perseverança",
+      "playlistId": "PLQj04es5Wfqdixkz_sgu75PIh_RISkrFM"
+    },
+    {
+      "title": "Maturidade",
+      "playlistId": "PLQj04es5WfqeN1F0OOLv8yBSCKoSoubTr"
+    },
+    {
+      "title": "Relacionamentos Reais",
+      "playlistId": "PLQj04es5Wfqd_Qw7eA4z9-kJWR9sN0Wma"
+    },
+    {
+      "title": "Reinvente-se",
+      "playlistId": "PLQj04es5Wfqduz-T04xPNoscAN1SA161x"
+    },
+    {
+      "title": "Lidere: série de liderança",
+      "playlistId": "PLQj04es5Wfqd8pXEPph7k50PMDusM-k8c"
+    },
+    {
+      "title": "Sobrevivência financeira",
+      "playlistId": "PLQj04es5WfqdU0Dw1Vmh_FyhHC0cRT9by"
+    },
+    {
+      "title": "A vida financeira de um empreendedor",
+      "playlistId": "PLQj04es5Wfqc3VJLDpKX1OQO62dCET_sI"
+    },
+    {
+      "title": "Primeira temporada do Office Cast",
+      "playlistId": "PLQj04es5Wfqe2-pZrT2ENNy3qPvxdE4Er"
+    }
+  ],
+  "shop": {
+    "mode": "em_breve",
+    "title": "Loja Office Cast",
+    "intro": "Estamos preparando a loja do Office Cast. Ainda não há produtos à venda.",
+    "waitlistEnabled": true,
+    "categories": [
+      {
+        "key": "blusas",
+        "name": "Blusas e camisetas",
+        "text": "Peças da linha Office Cast."
+      },
+      {
+        "key": "livros",
+        "name": "Livros",
+        "text": "Catálogo em definição."
+      },
+      {
+        "key": "canecas",
+        "name": "Canecas",
+        "text": "Canecas da linha Office Cast."
+      },
+      {
+        "key": "colecoes",
+        "name": "Futuras coleções",
+        "text": "Coleções ligadas às séries do programa."
+      }
+    ]
+  },
+  "products": []
+}

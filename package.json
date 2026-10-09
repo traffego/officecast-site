@@ -1,0 +1,19 @@
+{
+  "name": "office-cast-site",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Site oficial do Office Cast (primeira versão local).",
+  "type": "commonjs",
+  "main": "server.js",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "check": "node tools/verificar-sintaxe.js",
+    "test": "node --test \"tests/*.test.js\"",
+    "senha": "node tools/criar-senha.js",
+    "pacote": "node tools/gerar-pacote.js",
+    "exportar-dados": "node tools/exportar-dados.js"
+  }
+}
